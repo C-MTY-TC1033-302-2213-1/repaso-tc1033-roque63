@@ -43,12 +43,13 @@ Datos de entrada:
 Ninguno
 
 Datos de salida:
-P_T1: 22.3734
-A_T1: 21.5
-P_T2: 28.5422
-A_T2: 39
-P_T3: 10.4721
-A_T3: 4
+
+p_tri1 = 22.3734
+a_tri1 = 21.5
+p_tri2 = 28.5422
+a_tri2 = 39
+p_tri3 = 10.4721
+a_tri3 = 4
 Distancia = 10
 
 ```
